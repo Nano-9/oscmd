@@ -8,4 +8,5 @@ Você só precisa passar a url do site + o parâmetro a ser testado e ele encarr
 
      git clone https://github.com/Nanxsec/oscmdi
      cd oscmdi
+     pip install -r requirements.txt
      python3 cmd.py <url> <parametro>
