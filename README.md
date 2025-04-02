@@ -6,6 +6,6 @@ Você só precisa passar a url do site + o parâmetro a ser testado e ele encarr
 
 # Uso
 
-     git clone https://github.com/nano-9/oscmdi
+     git clone https://github.com/Nanxsec/oscmdi
      cd oscmdi
      python3 cmd.py <url> <parametro>
