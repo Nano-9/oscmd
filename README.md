@@ -1,4 +1,4 @@
-# oscmd
+# oscmdi
 
 Esse script é pequeno e direto ao ponto!
 Ele carrega um arquivo.txt  que contém inúmeros payloads para OS Command Injection em linux e windows
